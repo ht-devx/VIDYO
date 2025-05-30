@@ -155,7 +155,7 @@ video, canvas {
 	color:inherit;
 }
 
-.pseudo-dur {
+.pseudo-ct, .pseudo-dur {
 	visibility:hidden
 }
 
