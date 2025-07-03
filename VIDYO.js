@@ -62,6 +62,7 @@ window.VIDYO = function(params){
                     if(vid.tagName == "VIDEO" && !vid.closest(".vidyo-video-container")){
                         // set starting video volume
                         vid.volume = vidVol;
+                        vid.muted = false
 
                         // mobile
                         if(touchDevice){
