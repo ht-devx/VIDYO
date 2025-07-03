@@ -122,4 +122,4 @@ Please do not remove the credits, and link back to this repository page!
 
 If you encounter any issues or have any questions, please contact me through either:
 - :love_letter: hello.ht.dev@gmail.com
-- :computer: [discord.gg](https://discord.gg/RcMKnwz)
+- :computer: [discord.gg/RcMKnwz](https://discord.gg/RcMKnwz)
